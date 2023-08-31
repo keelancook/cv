@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Keelan Cook
+    tagline: George Liele Director of the Center for Great Commission Studies
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: kcook@sebts.edu
+    phone: 
+    timezone: America/New York Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: keelancook.com #do not add http://
+    linkedin: keelancook
+    xing: 
+    github: keelancook
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@keelancook'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
@@ -36,19 +36,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Susu
+          level: Proficient
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Novice
+
+        - idiom: German
+          level: Novice
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Kayaking
           link:
 
-        - item: Snowboarding
+        - item: Backpacking
           link:
 
         - item: Cooking
