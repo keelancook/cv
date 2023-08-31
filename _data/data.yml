@@ -202,6 +202,16 @@ certifications:
             The course will feature missional approaches which communicate the gospel effectively, to 
             individuals and groups, in such contexts.
 
+        - name: MIS6800 - History of Christian Missions
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            An interpretive history of the expansion of Christianity from apostolic times to the present.
+
 projects:
     title: Projects
     intro: >
