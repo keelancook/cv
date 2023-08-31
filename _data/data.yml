@@ -163,6 +163,45 @@ experiences:
             - Bullet point
             - Bullet point
 
+certifications:
+      title: Courses Taught
+      list:
+        - name: MIS5000 - Intro to Great Commission Studies
+          start: 2020
+          end: 2021
+          organization: Southeastern Baptist Theological Seminary
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            An introduction to the biblical, theological, and practical aspects related to the 
+            practice and fulfillment of the Great Commission. Special attention is given to contemporary 
+            methods of doing missions and evangelism.
+
+        - name: MIS5100 - Christian Missions
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            A course designed to introduce the student to the biblical, theological, historical, 
+            and practical bases for Christian missions. Special attention is given to contemporary issues 
+            in missions as well as current ways to do missions.
+
+        - name: MIS6820 - Judaism, Islam and Contexts
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            An introduction to Judaism and Islam, in their varied manifestation, for prospective workers. 
+            The course will feature missional approaches which communicate the gospel effectively, to 
+            individuals and groups, in such contexts.
+
 projects:
     title: Projects
     intro: >
