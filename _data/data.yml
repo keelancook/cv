@@ -169,8 +169,6 @@ certifications:
             An introduction to the biblical, theological, and practical aspects related to the 
             practice and fulfillment of the Great Commission. Special attention is given to contemporary 
             methods of doing missions and evangelism.
-
-
         - name: Christian Missions
           start: 2021
           end: Present
@@ -182,8 +180,6 @@ certifications:
             A course designed to introduce the student to the biblical, theological, historical, 
             and practical bases for Christian missions. Special attention is given to contemporary issues 
             in missions as well as current ways to do missions.
-
-
         - name: Judaism, Islam and Contexts
           start: 2022
           end: Present
@@ -195,8 +191,6 @@ certifications:
             An introduction to Judaism and Islam, in their varied manifestation, for prospective workers. 
             The course will feature missional approaches which communicate the gospel effectively, to 
             individuals and groups, in such contexts.
-
-
         - name: History of Christian Missions
           start: 2023
           end: Present
@@ -227,11 +221,11 @@ projects:
         link: "ubahouston.org"
         tagline: "Sending Pathways is a multi-church iniative to identify, equip, send, and support sent out ones for an array of Great Commission tasks."
 
-      - title: Atom
+      - title: Diaspora Missions Collective
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: NAMB Replant Team
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
