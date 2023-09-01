@@ -166,49 +166,49 @@ experiences:
 certifications:
       title: Courses Taught
       list:
-        - name: MIS5000 - Intro to Great Commission Studies
-          start: 2020
-          end: 2021
+        - name: Intro to Great Commission Studies
+          start: 2021
+          end: Present
           organization: Southeastern Baptist Theological Seminary
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialid: 
+          credentialurl:   #no http:// just the url
+          credentialname: MIS5000
           details: |
             An introduction to the biblical, theological, and practical aspects related to the 
             practice and fulfillment of the Great Commission. Special attention is given to contemporary 
             methods of doing missions and evangelism.
 
-        - name: MIS5100 - Christian Missions
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Christian Missions
+          start: 2021
+          end: Present
+          organization: Southeastern Baptist Theological Seminary
+          credentialid: 
+          credentialurl:  
+          credentialname: MIS5100
           details: |
             A course designed to introduce the student to the biblical, theological, historical, 
             and practical bases for Christian missions. Special attention is given to contemporary issues 
             in missions as well as current ways to do missions.
 
         - name: MIS6820 - Judaism, Islam and Contexts
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          start: 2022
+          end: Present
+          organization: Southeastern Baptist Theological Seminary
+          credentialid: 
+          credentialurl: 
+          credentialname: MIS6820
           details: |
             An introduction to Judaism and Islam, in their varied manifestation, for prospective workers. 
             The course will feature missional approaches which communicate the gospel effectively, to 
             individuals and groups, in such contexts.
 
         - name: MIS6800 - History of Christian Missions
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          start: 2023
+          end: Present
+          organization: Southeastern Baptist Theological Seminary
+          credentialid: 
+          credentialurl: 
+          credentialname: MIS6800
           details: |
             An interpretive history of the expansion of Christianity from apostolic times to the present.
 
