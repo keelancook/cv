@@ -142,8 +142,6 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - role: Urban Resource Coordinator
         time: 2013 - 2017
         company: Southeastern Baptist Theological Seminary
@@ -169,7 +167,7 @@ certifications:
         - name: Intro to Great Commission Studies
           start: 2021
           end: Present
-          organization: Southeastern Baptist Theological Seminary
+          organization: MIS5000
           credentialid: 
           credentialurl:   #no http:// just the url
           credentialname: MIS5000
@@ -178,10 +176,11 @@ certifications:
             practice and fulfillment of the Great Commission. Special attention is given to contemporary 
             methods of doing missions and evangelism.
 
+
         - name: Christian Missions
           start: 2021
           end: Present
-          organization: Southeastern Baptist Theological Seminary
+          organization: MIS5100
           credentialid: 
           credentialurl:  
           credentialname: MIS5100
@@ -190,10 +189,11 @@ certifications:
             and practical bases for Christian missions. Special attention is given to contemporary issues 
             in missions as well as current ways to do missions.
 
+
         - name: MIS6820 - Judaism, Islam and Contexts
           start: 2022
           end: Present
-          organization: Southeastern Baptist Theological Seminary
+          organization: MIS6820
           credentialid: 
           credentialurl: 
           credentialname: MIS6820
@@ -202,10 +202,11 @@ certifications:
             The course will feature missional approaches which communicate the gospel effectively, to 
             individuals and groups, in such contexts.
 
+
         - name: MIS6800 - History of Christian Missions
           start: 2023
           end: Present
-          organization: Southeastern Baptist Theological Seminary
+          organization: MIS6800
           credentialid: 
           credentialurl: 
           credentialname: MIS6800
