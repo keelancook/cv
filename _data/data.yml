@@ -65,8 +65,6 @@ career-profile:
       Keelan’s areas of focus cover both North American and International missions. 
       He teaches and writes on church renewal and replanting as well as developing healthy sending culture in churches. 
       He has a passion for mobilizing the church to the nations, and a love for missions history. 
-      He leads the Peoples Next Door project, which is an initiative to equip local churches in North America 
-      to engage in cross-cultural missions among the least-reached peoples that now live in our communities. 
       In previous years, he spent time as a church planter in West Africa with the IMB and doing ethnographic 
       research in Washington, DC with NAMB.
 education:
@@ -201,24 +199,29 @@ certifications:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The following are a selection of publications in both academic and popular level outlets and journals.
     papers:
-      - title: The Art of Computer Programming
+      - title: The Church and Her Mission to the Cities: A Theological Rubric to Evaluate Urban Mission
+Methods
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Keelan Cook
+        conference: Occasional Bulletin of EMS 30.2 (Spring 2017)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Unreached People Groups,"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Cook, Keelan
+        conference: "Patterned: Sharing and Imitating Christ Together (NC Baptists,2017)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+
+    essays:
+      - title: "Cross-Cultural Missions: Crossing Streets and Crossing Oceans"
+        link: "#"
+        authors: Keelan Cook
+        conference: imb.org (February 14, 2019)
 
 projects:
     title: Projects
