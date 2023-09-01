@@ -227,26 +227,31 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Him We Proclaim
+        link: "https://keelancook.com"
+        tagline: "This is my personal website, which houses my writing and collection of resources I've created."
+
       - title: Peoples Next Door Project
-        link: "peoplesnextdoor.com"
+        link: "https://peoplesnextdoor.com"
         tagline: "An initiative to equip local churches in North America to engage in cross-cultural 
         missions among the least-reached peoples that now live in our communities."
 
-      - title: Him We Proclaim
-        link: "keelancook.com"
-        tagline: "This is my personal website, which houses my writing and collection of resources I've created."
-
       - title: Sending Pathways
-        link: "ubahouston.org"
-        tagline: "Sending Pathways is a multi-church iniative to identify, equip, send, and support sent out ones for an array of Great Commission tasks."
+        link: "https://ubahouston.org"
+        tagline: "Sending Pathways is a multi-church iniative to identify, equip, send, and support sent out ones 
+        for an array of Great Commission tasks."
 
       - title: Diaspora Missions Collective
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://dmcollective.org"
+        tagline: "The Diaspora Missions Collective equips Southern Baptist churches in their awareness, 
+        understanding, and engagement of diaspora peoples as they embrace their responsibility to fulfill 
+        the Great Commission both locally and globally."
 
       - title: NAMB Replant Team
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "https://www.namb.net/church-replanting/"
+        tagline: "I periodically work with the North American Mission Board's Replanting team on various training events 
+        and resources. The Replant Collective equips leaders with the best resources to help lead dying churches to 
+        regain health and vitality for the glory of God and the good of their communities."
 
 
 skills:
