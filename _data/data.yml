@@ -146,20 +146,14 @@ experiences:
         time: 2013 - 2017
         company: Southeastern Baptist Theological Seminary
         details: |
-          The Urban Resource Initiative at Southeastern provides students, churches, and other great commission partners 
+          The Urban Resource Initiative at Southeastern provided students, churches, and other Great Commission partners 
           with equipping and resources designed to engage lostness and plant churches in our urban centers domestically 
           and around the globe.
       - role: Journeyman - West Africa
         time: 2009 - 2011
         company: International Mission Board
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Served as an international church planter in rural West Africa.
 
 certifications:
       title: Courses Taught
@@ -190,7 +184,7 @@ certifications:
             in missions as well as current ways to do missions.
 
 
-        - name: MIS6820 - Judaism, Islam and Contexts
+        - name: Judaism, Islam and Contexts
           start: 2022
           end: Present
           organization: MIS6820
@@ -203,7 +197,7 @@ certifications:
             individuals and groups, in such contexts.
 
 
-        - name: MIS6800 - History of Christian Missions
+        - name: History of Christian Missions
           start: 2023
           end: Present
           organization: MIS6800
