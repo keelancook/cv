@@ -203,25 +203,42 @@ publications:
     papers:
       - title: "The Church and Her Mission to the Cities: A Theological Rubric to Evaluate Urban Mission
 Methods"
-        link: "#"
+        link: "https://www.emsweb.org/wp-content/uploads/2020/11/OB_Spring_2017.pdf"
         authors: Keelan Cook
         conference: Occasional Bulletin of EMS 30.2 (Spring 2017)
 
       - title: "Unreached People Groups"
-        link: "#"
+        link: "https://ncbaptist.org/resource/resource-patterned/#week-7"
         authors: Cook, Keelan
         conference: "Patterned: Sharing and Imitating Christ Together (NC Baptists,2017)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
     essays:
       - title: "Cross-Cultural Missions: Crossing Streets and Crossing Oceans"
-        link: "#"
+        link: "https://www.imb.org/2019/02/14/cross-cultural-missions/"
         authors: Keelan Cook
         conference: imb.org (February 14, 2019)
+      - title: "Contextualization as Gospel Incarnation"
+        link: "https://wheatonbillygraham.com/contextualization-as-gospel-incarnation/"
+        authors: Keelan Cook
+        conference: Billy Graham Center, Wheaton College (June 26, 2019)
+      - title: "The de-Europeanization of American Christianity"
+        link: "https://wheatonbillygraham.com/de-europeanization-american-christianity/"
+        authors: Keelan Cook
+        conference: Billy Graham Center, Wheaton College (April 3, 2018)
+      - title: "Demographics that Speak"
+        link: "https://wheatonbillygraham.com/demographics-that-speak/"
+        authors: Keelan Cook
+        conference: Billy Graham Center, Wheaton College (January 30, 2018)
+      - title: "Some American Muslims Leave Islam, But Protestant Converts Often Replace Them"
+        link: "https://research.lifeway.com/2018/02/19/american-muslims-leave-islam-protestant-converts-often-replace/"
+        authors: Keelan Cook
+        conference: Lifeway Research (February 19, 2018)
+
+    presentations:
+
+
+
+
 
 projects:
     title: Projects
