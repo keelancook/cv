@@ -17,6 +17,9 @@
   {% endif %}
 
   {% for publication in publications.papers %}
+  <h3 class="section-subtitle">
+    {{ publications.subtitle }}
+  </h3>
   <div class="item">
     {% if publication.link %}
       <a href="{{ publication.link }}">{{ publication.title }}</a></li>

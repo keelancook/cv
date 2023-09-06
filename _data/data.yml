@@ -201,6 +201,7 @@ publications:
     intro: |
       The following are a selection of publications in both academic and popular level outlets and journals.
     papers:
+        subtitle: Papers
       - title: "The Church and Her Mission to the Cities: A Theological Rubric to Evaluate Urban Mission
 Methods"
         link: "#"
@@ -218,6 +219,7 @@ Methods"
         conference: "Comm. ACM 4 (1961), 51–55"
 
     essays:
+        subtitle: Essays
       - title: "Cross-Cultural Missions: Crossing Streets and Crossing Oceans"
         link: "#"
         authors: Keelan Cook
