@@ -21,13 +21,13 @@ The code here is not pretty. But, I added subsections below for papers and essay
 Instead, I used the job-title class from experiences to try and match other parts of the theme.-->
 
 <subsection class="subsection publications.section">
-  <h3 class="job-title">Papers</h3>
+  <h3 class="job-title">Papers & Chapters</h3>
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
-      <a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <i><a href="{{ publication.link }}">{{ publication.title }}</a></i>
     {% else %}
-      {{ publication.title }}</li>
+      {{ publication.title }}
     {% endif %}
     <div class="publication-conference">{{ publication.conference }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
@@ -36,13 +36,13 @@ Instead, I used the job-title class from experiences to try and match other part
 </subsection>
 
 <subsection class="subsection publications.section">
-  <h3 class="job-title">Essays</h3>
+  <h3 class="job-title">Selected Essays</h3>
   {% for publication in publications.essays %}
   <div class="item">
     {% if publication.link %}
-      <a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <i><a href="{{ publication.link }}">{{ publication.title }}</a></i>
     {% else %}
-      {{ publication.title }}</li>
+      {{ publication.title }}
     {% endif %}
     <div class="publication-conference">{{ publication.conference }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
