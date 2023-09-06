@@ -16,8 +16,12 @@
   </div><!--//intro-->
   {% endif %}
 
+# NOTE: I've hacked together a working solution to styling the publications better for an academic CV. 
+# The code here is not pretty. But, I added subsections below for papers and essays. I did not create a class for the headings. 
+# Instead, I used the job-title class from experiences to try and match other parts of the theme. 
+
 <subsection class="subsection publications.section">
-  <h3>Papers</h3>
+  <h3 class="job-title"></h3>Papers</h3>
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
@@ -25,12 +29,14 @@
     {% else %}
       {{ publication.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
   </div><!--//item-->
   {% endfor %}
 </subsection>
 
+<subsection class="subsection publications.section">
+  <h3 class="job-title"></h3>Essays</h3>
   {% for publication in publications.essays %}
   <div class="item">
     {% if publication.link %}
@@ -38,10 +44,11 @@
     {% else %}
       {{ publication.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
   </div><!--//item-->
   {% endfor %}
+</subsection>
 
 </section><!--//section-->
 {% endif %}
