@@ -115,6 +115,12 @@ experiences:
           Southeastern Baptist Theological Seminary. The CGCS exists to mobilize and equip students, faculty, 
           and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, 
           and among the nations in partnership with local churches, state conventions, NAMB, and the IMB.
+      - role: Assistant Professor of Missiology
+        time: 2021 - Present
+        company: Southeastern Baptist Theological Seminary
+        details: |
+          Serve full time on the teaching faculty at Southeastern in the ministry area. Teach various missions courses 
+          at the undergaduate, graduate, and advanced levels.
       - role: Associate Director, Center for Great Commission Studies
         time: 2021 - 2022
         company: Southeastern Baptist Theological Seminary
@@ -151,17 +157,6 @@ experiences:
 certifications:
       title: Courses Taught
       list:
-        - name: Intro to Great Commission Studies
-          start: 2021
-          end: Present
-          organization: MIS5000
-          credentialid: 
-          credentialurl:   #no http:// just the url
-          credentialname: MIS5000
-          details: |
-            An introduction to the biblical, theological, and practical aspects related to the 
-            practice and fulfillment of the Great Commission. Special attention is given to contemporary 
-            methods of doing missions and evangelism.
         - name: Christian Missions
           start: 2021
           end: Present
@@ -181,7 +176,7 @@ certifications:
           credentialurl: 
           credentialname: MIS6820
           details: |
-            An introduction to Judaism and Islam, in their varied manifestation, for prospective workers. 
+            An introduction to Judaism and Islam, in their varied manifestations, for prospective workers. 
             The course will feature missional approaches which communicate the gospel effectively, to 
             individuals and groups, in such contexts.
         - name: History of Christian Missions
@@ -193,6 +188,41 @@ certifications:
           credentialname: MIS6800
           details: |
             An interpretive history of the expansion of Christianity from apostolic times to the present.
+        - name: North American Cross-Cultural & Diaspora Missions
+          start: 2024
+          end: Present
+          organization: MIS9640
+          credentialid: 
+          credentialurl:   #no http:// just the url
+          credentialname: MIS9640
+          details: |
+            This seminar examines diaspora missiology with an emphasis on cross-cultural missions and ministry 
+            in a North American context. Students will examine the biblical theological foundations of diaspora 
+            missiology, the contemporary context of diaspora missiology, and the role of the church in engaging 
+            diaspora communities.
+        - name: Developing a Missional Church Culture
+          start: 2025
+          end: Present
+          organization: DMN8805
+          credentialid: 
+          credentialurl:   #no http:// just the url
+          credentialname: DMN8805
+          details: |
+            An examination of how to develop a missionary culture within the local church. Students will 
+            study the missiological vision presented in the Bible as well as the works of missiologists. 
+            The seminar will also explore the importance of changing a church’s culture as well as developing 
+            a well-thought-out and complete mission strategy.
+        - name: Intro to Great Commission Studies
+          start: 2021
+          end: 2025
+          organization: MIS5000
+          credentialid: 
+          credentialurl:   #no http:// just the url
+          credentialname: MIS5000
+          details: |
+            An introduction to the biblical, theological, and practical aspects related to the 
+            practice and fulfillment of the Great Commission. Special attention is given to contemporary 
+            methods of doing missions and evangelism.
 
 publications:
     title: Publications
